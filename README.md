@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me Discord: huk9930
 - 😄 Pronouns: The normal man's pronouns.
-- ⚡ Fun fact: idk.
+- ⚡ Fun fact: C++ makes more sense to me.
 
 <!---
 Dorian11ro-coding/Dorian11ro-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
