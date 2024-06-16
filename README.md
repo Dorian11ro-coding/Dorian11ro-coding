@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Dorian11ro-coding
+- 👋 Hi, I’m Huk!
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++ and Git.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me Discord: huk9930
-- 😄 Pronouns: The normal man's pronouns.
-- ⚡ Fun fact: C++ makes more sense to me.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: idk
 
 <!---
 Dorian11ro-coding/Dorian11ro-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
