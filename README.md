@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huk!
-- 👀 I’m interested in C++
+- 👀 I’m interested in C++ and python/pygame
 - 🌱 I’m currently learning C++ and Git.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me Discord: huk9930
